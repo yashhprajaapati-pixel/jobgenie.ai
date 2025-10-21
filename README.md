@@ -1,2 +1,2 @@
 # jobgenie.ai
-jobgenie.ai with chrome extension
+Chrome Extension for JobGenie.ai – AI-powered job finder using resume analysis
